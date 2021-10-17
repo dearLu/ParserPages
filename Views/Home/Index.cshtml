@@ -1,0 +1,25 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+    <div class="text-center">
+        <h1 class="display-4">Парсер сайтов</h1>
+        <div>
+            <p>Введите адрес сайта </p>
+            
+                @using (Html.BeginForm("checkClick", "Home", FormMethod.Post))
+                {
+                    <input type="hidden" />
+                    <table>
+                        <tr>
+                            <td class="paded"><input type="text" class="formMain" name="Address" /></td>
+                        </tr>
+                        
+                        <tr>
+                            <td class="paded"><input type="submit" class="formMain" value="Распарсить" /> </td>
+                        </tr>
+                    </table>
+                }
+                
+        </div>
+    </div>
