@@ -22,7 +22,7 @@ namespace ParserPages.Logger
 
         public bool IsEnabled(LogLevel logLevel)
         {
-            //return logLevel == LogLevel.Trace;
+            
             return true;
         }
 

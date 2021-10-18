@@ -5,3 +5,15 @@ An unhandled exception has occurred while executing the request.
 Application started. Press Ctrl+C to shut down.
 Hosting environment: Development
 Content root path: C:\Users\admin\source\repos\ParserPages
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\admin\source\repos\ParserPages
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\admin\source\repos\ParserPages
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\admin\source\repos\ParserPages
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\admin\source\repos\ParserPages
